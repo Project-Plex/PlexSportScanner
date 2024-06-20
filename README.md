@@ -2,9 +2,8 @@
 
 ## This project is actively in progress again!
 
-Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a> | <a href=" https://Project-Kodi.github.io/"> https://Project-Kodi.github.io/</a>
 
-Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | <a href="https://project-plex.github.io/">https://project-plex.github.io/</a>
+Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
 
 
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>

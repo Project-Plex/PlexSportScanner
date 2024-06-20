@@ -12,7 +12,7 @@ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Proj
 ## Information about this Project
 
 > [!NOTE]
-> Scanner and Metadata Agent for Plex that uses www.thesportsdb.com
+> Scanner and Metadata Agent for Plex, that uses www.thesportsdb.com
 
 ## 
 
@@ -113,3 +113,6 @@ Create a plain text file named 'SportScanner.ini' in that directory (case sensit
 [thesportsdb.com]
 apikey=<your api key>
 ```
+
+> [!WARNING]
+> Please use our Example Video Demo Files after Installation - Sport Mediathek : <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a>

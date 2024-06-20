@@ -7,11 +7,13 @@
 
 Scanner and Metadata Agent for Plex that uses www.thesportsdb.com
 
+Please use our Example Video Demo Files: <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a>
+
 ## This project is actively in progress again!
 
-Operated by - Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a> | <a href=" https://Project-Kodi.github.io/"> https://Project-Kodi.github.io/</a>
+Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a> | <a href=" https://Project-Kodi.github.io/"> https://Project-Kodi.github.io/</a>
 
-Operated by - Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | <a href="https://project-plex.github.io/">https://project-plex.github.io/</a>
+Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | <a href="https://project-plex.github.io/">https://project-plex.github.io/</a>
 
 # Installation
 

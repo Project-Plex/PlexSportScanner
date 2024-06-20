@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.plexapp.agents.sportscanner</string>
+	<key>PlexAgentAttributionText</key>
+	<string>
+		    &lt;a href=&quot;http://www.thesportsdb.com&quot;&gt;TheSportsDB.com&lt;/a&gt; is a crowd sourced site for sports metatdata. The site was setup in 2014 to provide a free (or low cost) data source for all kinds of sports results. Since then it has grown into one of the biggest archives of sports data on the web.
+		  </string>
+	<key>PlexFrameworkVersion</key>
+	<string>2</string>
+	<key>PlexPluginClass</key>
+	<string>Agent</string>
+	<key>PlexPluginCodePolicy</key>
+	<string>Elevated</string>
+</dict>
+</plist>

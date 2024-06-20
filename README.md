@@ -7,8 +7,8 @@
 
 Scanner and Metadata Agent for Plex that uses www.thesportsdb.com
 
-[!TIP]
-Please use our Example Video Demo Files for your first Mediathek: <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a>
+> [!TIP]
+> Please use our Example Video Demo Files for your first Mediathek: <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a>
 
 ## This project is actively in progress again!
 

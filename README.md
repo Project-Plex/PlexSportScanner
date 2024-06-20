@@ -32,7 +32,7 @@ Plex main folder location:
     * '/raid0/data/PLEX_CONFIG/Plex Media Server/'                               # Thecus Plex community
 
  - Download the latest release from https://github.com/Project-Plex/PlexSportScanner/releases
- - Extract files, example: PlexSportScanner V.0.9.1
+ - Extract files, example: PlexSportScanner V.0.9.1.zip
  - Copy the extracted directory "Scanners" into your Plex main folder location - check the list above for more clues
  - Copy the extracted directory "SportScanner.bundle" into the Plug-ins directory in your main folder location - check the list above for more clues
  - You may need to restart Plex

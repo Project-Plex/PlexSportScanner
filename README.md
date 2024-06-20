@@ -1,4 +1,4 @@
-# SportScanner
+# PlexSportScanner - SportScanner
 
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>
 
@@ -31,8 +31,8 @@ Plex main folder location:
     * '/raid0/data/module/Plex/sys/Plex Media Server/',                          # Thecus
     * '/raid0/data/PLEX_CONFIG/Plex Media Server/'                               # Thecus Plex community
 
- - Download the latest release from https://github.com/mmmmmtasty/SportScanner/releases
- - Extract files
+ - Download the latest release from https://github.com/Project-Plex/PlexSportScanner/releases
+ - Extract files, example: PlexSportScanner V.0.9.1
  - Copy the extracted directory "Scanners" into your Plex main folder location - check the list above for more clues
  - Copy the extracted directory "SportScanner.bundle" into the Plug-ins directory in your main folder location - check the list above for more clues
  - You may need to restart Plex

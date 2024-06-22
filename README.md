@@ -15,8 +15,7 @@ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Proj
 
 ## Information about this Project
 
-> [!NOTE]
-> Scanner and Metadata Agent for Plex, that uses www.thesportsdb.com
+ Scanner and Metadata Agent for Plex, that uses www.thesportsdb.com
 
 ## 
 

@@ -44,7 +44,7 @@ Plex main folder location:
  - Copy the extracted directory "Scanners" into your Plex main folder location - check the list above for more clues
  - Copy the extracted directory "SportScanner.bundle" into the Plug-ins directory in your main folder location - check the list above for more clues
  - You may need to restart Plex
- - Create a new library and under Advanced options you should be able to select "SportScanner" as both your scanner and metadata agent.
+ - Create a new **TVShow library** and under Advanced options you should be able to select "SportScanner" as both your scanner and metadata agent.
 
 # Media Format
 

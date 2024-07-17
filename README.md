@@ -120,4 +120,4 @@ apikey=<your api key>
 ## Please use our demo files, you will save yourself a lot of time!
 
 > [!WARNING]
-> Please use our Example Video Demo Files after Installation - Sport Mediathek : <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a>
+> Please use our Example Video Demo Files after Installation - Sport Mediathek : <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Example files for naming-PlexSportScanner.zip</a>

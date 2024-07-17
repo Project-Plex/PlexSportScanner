@@ -2,7 +2,7 @@
 
 # PlexSportScanner - SportScanner
 
-## This project is actively in progress again!
+### This project is not active!
 
 
 Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
@@ -13,7 +13,9 @@ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Proj
 
 ## Information about this Project
 
- Scanner and Metadata Agent for Plex, that uses www.thesportsdb.com
+ - Scanner and Metadata Agent for Plex, that uses www.thesportsdb.com
+
+ - Please use our documentation first: <a href="https://github.com/Project-Plex/Project-Plex.github.io">https://github.com/Project-Plex/Project-Plex.github.io</a>
 
 ## 
 
